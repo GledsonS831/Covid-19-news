@@ -1,0 +1,15 @@
+h1{
+    font-size: 90px;
+    color: rgb(90, 70, 100);
+}
+
+.info{
+    width: 90px;
+    height: 40px;
+    color: rgb(255, 255, 255);
+    border: 10px;
+    border-radius: 5%;
+    background-color: rgb(81, 220, 255);
+    border-spacing: 10px;
+}
+
