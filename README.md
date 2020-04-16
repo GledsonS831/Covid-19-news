@@ -1,7 +1,7 @@
 # Landing-Page
 
 ## Do you want to contribute with any changes?
-  - Run git clone https://github.com/GledsonS831/Calculadora/ 
+  - Run git clone https://github.com/GledsonS831/Landing-Page
   - Create a branch dev, you must make changes there.*
   - Run git checkout -b dev
 ## Types of commits accepted
