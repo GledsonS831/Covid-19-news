@@ -1,0 +1,103 @@
+body{
+    background: linear-gradient(90deg, rgba(20,206,228,1) 7%, rgba(20,164,228,1) 93%);
+}
+.main{
+    font-family: 'Baloo Bhaina 2', cursive;
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 1%; 
+}
+
+.main .nav h2{
+    font-size: 150%;
+    float: left;
+    padding: auto;
+    margin: auto;
+    margin-left: 4%;
+    margin-top: 2%;
+    color: rgb(12, 67, 185);
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+.main #sobrenome{
+    color: rgb(1, 58, 180);
+    margin: auto;
+    text-align: left;
+    margin-left: 8%;
+    margin-top: 5%;
+    
+    font-size: 30px;
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+.main .texto{
+ 
+    margin-bottom: 0%;
+}
+.main .texto #p1{
+    color: rgb(142, 130, 243);
+    margin: auto;
+    font-size: 18px;
+    margin-left: 4%;
+    margin-right: 4%;
+    
+    font-family: 'Baloo Bhaina 2', cursive;
+    text-align: justify;
+}
+.main .texto #p1 a{
+    text-decoration: none;
+}
+
+.main .foto img{
+    width: 220px;
+    height: 250px;
+    margin-left: 8%;
+    margin-right: 4%;
+    float: left;
+}
+
+.main .logo {
+    margin: auto;
+    border: 2px solid #d5d5d5;
+    padding-left: 63.8%;
+    margin-right: 4%;
+
+   
+}
+
+.main .logo #i1{
+    width: 30px;
+    height: 30px;
+    border: 2px solid #d5d5d5;
+    padding-left: 10%;
+    padding-right: 10%;
+ 
+    
+}
+.main .logo #i2{
+    width: 30px;
+    height: 30px;
+    border: 2px solid #d5d5d5;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+
+.main .logo #i3{
+    width: 30px;
+    height: 30px;
+    border: 2px solid #d5d5d5;
+    padding-left: 10%;
+    padding-right: 10%;
+   
+}
+
+.main .logo #i4{
+    width: 30px;
+    height: 30px;
+    border: 2px solid #d5d5d5;
+    padding-left: 10%;
+    
+}
+
+
+

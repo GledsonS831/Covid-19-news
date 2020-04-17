@@ -52,6 +52,7 @@ body{
     margin-bottom: 10%;
 }
 
+
 .main .videos #a{
     margin-left: 10%;
     margin-right: 10%;
@@ -68,18 +69,25 @@ body{
     color: rgb(1, 58, 180);
     margin: auto;
     text-align: left;
+    margin-left: 4%;
     margin-top: 5%;
     margin-bottom: 5%;
     font-size: 30px;
     font-family: 'Baloo Bhaina 2', cursive;
 }
 
-.main .texto p{
-    color: rgb(152, 141, 250);
+
+
+.main .texto #t1{
+    color: rgb(142, 130, 243);
     margin: auto;
     font-size: 18px;
+    margin-left: 4%;
+    margin-right: 4%;
     margin-bottom: 10%;
     font-family: 'Baloo Bhaina 2', cursive;
+    text-align: justify;
+
 }
 
 .main .audio #a{

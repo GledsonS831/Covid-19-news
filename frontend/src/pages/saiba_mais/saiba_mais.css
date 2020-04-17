@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(90deg, rgba(20,206,228,1) 7%, rgba(20,164,228,1) 93%);
+}
+.main{
+
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 1%; 
+}
+
+.main .nav h2{
+    font-size: 150%;
+    float: left;
+    padding: auto;
+    margin: auto;
+    margin-left: 4%;
+    margin-top: 2%;
+    color: rgb(12, 67, 185);
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+
