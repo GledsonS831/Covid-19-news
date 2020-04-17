@@ -1,31 +1,94 @@
 body{
     background: linear-gradient(90deg, rgba(20,206,228,1) 7%, rgba(20,164,228,1) 93%);
 }
-#main{
+.main{
 
     background-color: white;
     margin-left: 10%;
     margin-right: 10%;
-    border-radius: 2%; 
+    border-radius: 1%; 
 }
 
-#main #nav h2{
+.main .nav h2{
+    font-size: 150%;
+    float: left;
+    padding: auto;
     margin: auto;
     margin-left: 4%;
-    
-    
-   
+    margin-top: 2%;
+    color: rgb(12, 67, 185);
+    font-family: 'Baloo Bhaina 2', cursive;
 }
 
-#main #nav p{
-    margin-left: 80%;
+.main .nav p{
+    margin-right: 4%;
+    padding-top: 2%;
+    text-align: right;
+    font-size: 120%;
+    
+    
 }
 
-#main #nav h1{
+.main .nav p a{
+    text-decoration: none;
+    color: rgb(152, 141, 250);
+    font-size: 120%;
+    font-family: 'Baloo Bhaina 2', cursive;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.main .nav h1{
+    color: rgb(1, 58, 180);
     margin: auto;
     text-align: center;
     margin-top: 10%;
     margin-bottom: 10%;
+    font-size: 40px;
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+
+.main .videos{
+    margin-bottom: 10%;
+}
+
+.main .videos #a{
+    margin-left: 10%;
+    margin-right: 10%;
+    float: right;
     
 }
 
+.main .videos #b{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.main .texto h1{
+    color: rgb(1, 58, 180);
+    margin: auto;
+    text-align: left;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: 30px;
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+
+.main .texto p{
+    color: rgb(152, 141, 250);
+    margin: auto;
+    font-size: 18px;
+    margin-bottom: 10%;
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+
+.main .audio #a{
+    margin-left: 10%;
+    margin-right: 10%;
+    float: right;
+}
+
+.main .audio #b{
+    margin-left: 10%;
+    margin-right: 10%;
+}
