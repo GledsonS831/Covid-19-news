@@ -6,7 +6,7 @@ body{
     background-color: white;
     margin-left: 10%;
     margin-right: 10%;
-    border-radius: 1%; 
+    
 }
 
 .main .nav h2{
@@ -57,9 +57,10 @@ body{
 
 .main .logo {
     margin: auto;
-    border: 2px solid #d5d5d5;
-    padding-left: 63.8%;
+    
+    text-align: right;
     margin-right: 4%;
+    
 
    
 }
@@ -67,36 +68,38 @@ body{
 .main .logo #i1{
     width: 30px;
     height: 30px;
-    border: 2px solid #d5d5d5;
-    padding-left: 10%;
-    padding-right: 10%;
+    
+    padding-left: 2%;
+    padding-right: 2%;
  
     
 }
 .main .logo #i2{
     width: 30px;
     height: 30px;
-    border: 2px solid #d5d5d5;
-    padding-left: 10%;
-    padding-right: 10%;
+    
+    padding-left: 2%;
+    padding-right: 2%;
     
 }
 
 .main .logo #i3{
     width: 30px;
     height: 30px;
-    border: 2px solid #d5d5d5;
-    padding-left: 10%;
-    padding-right: 10%;
+    
+    padding-left: 2%;
+    padding-right: 2%;
    
 }
 
 .main .logo #i4{
+    
     width: 30px;
     height: 30px;
-    border: 2px solid #d5d5d5;
-    padding-left: 10%;
+    padding-left: 2%;
     
+    
+      
 }
 
 
