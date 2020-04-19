@@ -1,22 +1,52 @@
 body{
     background: linear-gradient(90deg, rgba(20,206,228,1) 7%, rgba(20,164,228,1) 93%);
 }
-.main{
 
-    background-color: white;
-    margin-left: 10%;
-    margin-right: 10%;
-    border-radius: 1%; 
+.formulario {
+    border-radius: 20px;
+    padding-left: 20%;
+    
+    
 }
 
-.main .nav h2{
-    font-size: 150%;
-    float: left;
-    padding: auto;
-    margin: auto;
-    margin-left: 4%;
-    margin-top: 2%;
-    color: rgb(12, 67, 185);
+.formulario label{
+    
+    font-size: 35px;
     font-family: 'Baloo Bhaina 2', cursive;
+    color: rgb(142, 130, 243);
+    
+    
 }
 
+.formulario input{
+    margin: auto;
+    box-sizing: content-box;
+    
+    margin-bottom: 15px;
+    width: 500px;
+    height: 40px;
+    font-size: 30px;
+    border-width: 1px;
+}
+
+.formulario input[type="submit"]{
+    background-color:rgb(81, 220, 245);
+    border-width: 0px;
+    width: 238;
+}
+.formulario input[type="reset"]{
+    background-color:rgb(81, 220, 245);
+    border-width: 0px;
+    width: 238;
+
+}
+
+
+.texto h1{
+    margin: auto;
+    padding-left: 16%;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    /* border: 1px double green;*/
+    
+}

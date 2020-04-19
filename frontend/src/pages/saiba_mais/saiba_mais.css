@@ -6,7 +6,7 @@ body{
     background-color: white;
     margin-left: 10%;
     margin-right: 10%;
-    border-radius: 1%; 
+    border-radius: 25px; 
 }
 
 .main .nav h2{
@@ -18,5 +18,26 @@ body{
     margin-top: 2%;
     color: rgb(12, 67, 185);
     font-family: 'Baloo Bhaina 2', cursive;
+}
+
+.texto h1{
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+.texto ul{
+    padding-left: 10%;
+}
+
+.texto li{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Baloo Bhaina 2', cursive;
+    color: rgb(142, 130, 243);
+    
+}
+
+.texto li a{
+    text-decoration: none;
 }
 
