@@ -1,4 +1,6 @@
-# Landing-Page
+<p align="center">
+  <img src="https://github.com/GledsonS831/Covid-19-news/blob/master/frontend/src/assets/covid-19-news.png?raw=true"/>
+ </p>
 
 ## Do you want to contribute with any changes?
   - Run git clone https://github.com/GledsonS831/Landing-Page
