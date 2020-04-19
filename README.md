@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://github.com/GledsonS831/Covid-19-news/blob/master/frontend/src/assets/covid-19-news.png?raw=true"/>
+  <a target="blank" href="https://covid-19-news-now.netlify.app/"> <img src="https://github.com/GledsonS831/Covid-19-news/blob/master/frontend/src/assets/covid-19-news.png?raw=true"/> </a>
  </p>
+
+<h1>
+  Acesse: <a href="https://covid-19-news-now.netlify.app/">https://covid-19-news-now.netlify.app/</a>
+<h1/>
 
 ## Do you want to contribute with any changes?
   - Run git clone https://github.com/GledsonS831/Landing-Page
